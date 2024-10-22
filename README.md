@@ -1,6 +1,6 @@
 # Monitor Nginx
 
-![Nginx Logo](https://www.bing.com/search?pglt=131&q=imagens+de+nginx&cvid=275245e03fb84634b8ed054a4a3f2793&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE3OTc1ajBqMagCALACAA&FORM=ANNTA1&DAF0=1&PC=EDGEDB)
+<img src="img/nginx-logo.png" alt="Logotipo do Nginx" width="200"/>
 
 ## Descrição
 
