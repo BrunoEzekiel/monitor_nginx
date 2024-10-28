@@ -17,6 +17,7 @@ Este projeto contém um script de monitoramento para o servidor Nginx. O script 
 - **Linux (Ubuntu 20.04 ou superior)**
 - **Nginx**
 - **Shell Scripting**
+- **Cron Jobs (Agendar tarefas)**
 
 ## Como Instalar
 
